@@ -2502,8 +2502,6 @@ http://61.241.131.18/tx.rtmp.huya.com/1099531786608-1099531786608-86581524165558
 
 #EXTINF:-1 group-title="斗鱼专场",斗鱼電影2
 http://zzy789.xyz/douyu1.php?id=6763930
-#EXTINF:-1 group-title="斗鱼专场",斗鱼電影2
-http://epg.112114.xyz/douyu/6763930
 #EXTINF:-1 group-title="斗鱼专场",斗鱼電影3
 http://zzy789.xyz/douyu1.php?id=122402
 #EXTINF:-1 group-title="斗鱼专场",斗鱼電影3
@@ -2542,10 +2540,6 @@ http://112.74.200.9:88/tv000000/m3u8.php?/migu/625774640
 http://112.74.200.9:88/tv000000/m3u8.php?/migu/619495952
 #EXTINF:-1 group-title="斗鱼专场",斗鱼電影14
 http://112.74.200.9:88/tv000000/m3u8.php?/migu/627198191
-#EXTINF:-1 group-title="斗鱼专场",斗鱼電影15
-http://epg.112114.xyz/douyu/6537888
-#EXTINF:-1 group-title="斗鱼专场",斗鱼电影15
-http://zzy789.xyz/douyu1.php?id=6537888
 #EXTINF:-1 group-title="斗鱼专场",斗鱼電影16
 http://epg.112114.xyz/douyu/431460
 #EXTINF:-1 group-title="斗鱼专场",斗鱼电影16
@@ -2618,8 +2612,6 @@ http://epg.112114.xyz/douyu/1409682
 http://epg.112114.xyz/douyu/1955264
 #EXTINF:-1 group-title="斗鱼专场",斗鱼電影38
 http://epg.112114.xyz/douyu/8014575
-#EXTINF:-1 group-title="斗鱼专场",斗鱼電影48
-http://epg.112114.xyz/douyu/3392656
 #EXTINF:-1 group-title="斗鱼专场",斗鱼電影49
 http://epg.112114.xyz/douyu/4332
 #EXTINF:-1 group-title="斗鱼专场",斗鱼电影49
@@ -2676,8 +2668,6 @@ http://epg.112114.xyz/douyu/4523233
 http://epg.112114.xyz/douyu/8867878
 #EXTINF:-1 group-title="斗鱼专场",斗鱼電影98
 http://epg.112114.xyz/douyu/8166878
-#EXTINF:-1 group-title="斗鱼专场",斗鱼電影99
-http://epg.112114.xyz/douyu/7655471
 #EXTINF:-1 group-title="斗鱼专场",斗鱼電影101
 http://epg.112114.xyz/douyu/7673566
 #EXTINF:-1 group-title="斗鱼专场",斗鱼電影103
@@ -2736,8 +2726,6 @@ http://epg.112114.xyz/douyu/8799435
 http://epg.112114.xyz/douyu/218859
 #EXTINF:-1 group-title="斗鱼专场",斗鱼電影155
 http://epg.112114.xyz/douyu/4258555
-#EXTINF:-1 group-title="斗鱼专场",斗鱼電影162
-http://epg.112114.xyz/douyu/8116528
 #EXTINF:-1 group-title="斗鱼专场",斗鱼電影163
 http://epg.112114.xyz/douyu/8768613
 #EXTINF:-1 group-title="斗鱼专场",斗鱼電影165
@@ -2818,8 +2806,6 @@ http://epg.112114.xyz/douyu/8656759
 http://zzy789.xyz/douyu1.php?id=8656759
 #EXTINF:-1 group-title="斗鱼专场",斗鱼电影63
 http://epg.112114.xyz/douyu/5658951
-#EXTINF:-1 group-title="斗鱼专场",斗鱼电影63
-http://zzy789.xyz/douyu1.php?id=5658951
 #EXTINF:-1 group-title="斗鱼专场",斗鱼电影64
 http://zzy789.xyz/douyu1.php?id=8611011
 #EXTINF:-1 group-title="斗鱼专场",斗鱼电影65
@@ -2832,8 +2818,6 @@ http://zzy789.xyz/douyu1.php?id=5422706
 http://zzy789.xyz/douyu1.php?id=2987100
 #EXTINF:-1 group-title="斗鱼专场",斗鱼电影77
 http://zzy789.xyz/douyu1.php?id=2758565
-#EXTINF:-1 group-title="斗鱼专场",斗鱼电影79
-http://zzy789.xyz/douyu1.php?id=805235
 #EXTINF:-1 group-title="斗鱼专场",斗鱼电影81
 http://zzy789.xyz/douyu1.php?id=3870925
 #EXTINF:-1 group-title="斗鱼专场",斗鱼电影82
@@ -2850,12 +2834,8 @@ http://epg.112114.xyz/douyu/7305938
 http://zzy789.xyz/douyu1.php?id=7305938
 #EXTINF:-1 group-title="斗鱼专场",斗鱼电影88
 http://epg.112114.xyz/douyu/4360596
-#EXTINF:-1 group-title="斗鱼专场",斗鱼电影88
-http://zzy789.xyz/douyu1.php?id=4360596
 #EXTINF:-1 group-title="斗鱼专场",斗鱼电影89
 http://epg.112114.xyz/douyu/4373285
-#EXTINF:-1 group-title="斗鱼专场",斗鱼电影89
-http://zzy789.xyz/douyu1.php?id=4373285
 #EXTINF:-1 group-title="斗鱼专场",斗鱼电影90
 http://epg.112114.xyz/douyu/6785471
 #EXTINF:-1 group-title="斗鱼专场",斗鱼电影90
@@ -2870,8 +2850,6 @@ http://epg.112114.xyz/douyu/5508997
 http://zzy789.xyz/douyu1.php?id=4549169
 #EXTINF:-1 group-title="斗鱼专场",斗鱼电影97
 http://zzy789.xyz/douyu1.php?id=8867878
-#EXTINF:-1 group-title="斗鱼专场",斗鱼电影99
-http://zzy789.xyz/douyu1.php?id=7655471
 #EXTINF:-1 group-title="斗鱼专场",斗鱼电影100
 http://epg.112114.xyz/douyu/8168353
 #EXTINF:-1 group-title="斗鱼专场",斗鱼电影105
@@ -2892,8 +2870,6 @@ http://zzy789.xyz/douyu1.php?id=5522351
 http://epg.112114.xyz/douyu/562225
 #EXTINF:-1 group-title="斗鱼专场",斗鱼电影115
 http://epg.112114.xyz/douyu/223521
-#EXTINF:-1 group-title="斗鱼专场",斗鱼电影115
-http://zzy789.xyz/douyu1.php?id=223521
 #EXTINF:-1 group-title="斗鱼专场",斗鱼电影116
 http://epg.112114.xyz/douyu/8651489
 #EXTINF:-1 group-title="斗鱼专场",斗鱼电影116
@@ -2926,8 +2902,6 @@ http://zzy789.xyz/douyu1.php?id=413573
 http://epg.112114.xyz/douyu/8014467
 #EXTINF:-1 group-title="斗鱼专场",斗鱼电影130
 http://zzy789.xyz/douyu1.php?id=8014467
-#EXTINF:-1 group-title="斗鱼专场",斗鱼电影132
-http://zzy789.xyz/douyu1.php?id=2466104
 #EXTINF:-1 group-title="斗鱼专场",斗鱼电影133
 http://epg.112114.xyz/douyu/5192695
 #EXTINF:-1 group-title="斗鱼专场",斗鱼电影133
@@ -2958,12 +2932,6 @@ http://zzy789.xyz/douyu1.php?id=5033502
 http://epg.112114.xyz/douyu/6582435
 #EXTINF:-1 group-title="斗鱼专场",斗鱼电影149
 http://zzy789.xyz/douyu1.php?id=6582435
-#EXTINF:-1 group-title="斗鱼专场",斗鱼电影150
-http://epg.112114.xyz/douyu/3980787
-#EXTINF:-1 group-title="斗鱼专场",斗鱼电影150
-http://zzy789.xyz/douyu1.php?id=3980787
-#EXTINF:-1 group-title="斗鱼专场",斗鱼电影151
-http://zzy789.xyz/douyu1.php?id=426517
 #EXTINF:-1 group-title="斗鱼专场",斗鱼电影153
 http://zzy789.xyz/douyu1.php?id=8799435
 #EXTINF:-1 group-title="斗鱼专场",斗鱼电影155
@@ -2972,8 +2940,6 @@ http://zzy789.xyz/douyu1.php?id=4258555
 http://epg.112114.xyz/douyu/785252
 #EXTINF:-1 group-title="斗鱼专场",斗鱼电影157
 http://epg.112114.xyz/douyu/8362978
-#EXTINF:-1 group-title="斗鱼专场",斗鱼电影157
-http://zzy789.xyz/douyu1.php?id=8362978
 #EXTINF:-1 group-title="斗鱼专场",斗鱼电影158
 http://epg.112114.xyz/douyu/8788687
 #EXTINF:-1 group-title="斗鱼专场",斗鱼电影158
@@ -2998,8 +2964,6 @@ http://zzy789.xyz/douyu1.php?id=8413226
 http://zzy789.xyz/douyu1.php?id=8705754
 #EXTINF:-1 group-title="斗鱼专场",斗鱼电影168
 http://epg.112114.xyz/douyu/6861249
-#EXTINF:-1 group-title="斗鱼专场",斗鱼电影168
-http://zzy789.xyz/douyu1.php?id=6861249
 #EXTINF:-1 group-title="斗鱼专场",斗鱼电影169
 http://zzy789.xyz/douyu1.php?id=7528160
 #EXTINF:-1 group-title="斗鱼专场",斗鱼电影170
@@ -3028,8 +2992,6 @@ http://epg.112114.xyz/douyu/7971641
 http://zzy789.xyz/douyu1.php?id=7971641
 #EXTINF:-1 group-title="斗鱼专场",热舞180
 http://epg.112114.xyz/douyu/231464
-#EXTINF:-1 group-title="斗鱼专场",热舞180
-http://zzy789.xyz/douyu1.php?id=231464
 #EXTINF:-1 group-title="斗鱼专场",热舞181
 http://epg.112114.xyz/douyu/6852568
 #EXTINF:-1 group-title="斗鱼专场",热舞182
@@ -3072,14 +3034,6 @@ http://epg.112114.xyz/douyu/5949064
 http://zzy789.xyz/douyu1.php?id=276200
 #EXTINF:-1 group-title="斗鱼专场",四大名著
 http://epg.112114.xyz/douyu/1046540
-#EXTINF:-1 group-title="斗鱼专场",四大名著
-http://zzy789.xyz/douyu1.php?id=1046540
-#EXTINF:-1 group-title="斗鱼专场",四大名著
-https://cn-nmghhht-cu-live-03.bilivideo.com/live-bvc/725073/live_3002469_4192488.m3u8
-#EXTINF:-1 group-title="斗鱼专场",家有儿女
-http://epg.112114.xyz/douyu/6648727
-#EXTINF:-1 group-title="斗鱼专场",家有儿女
-http://zzy789.xyz/douyu1.php?id=6648727
 #EXTINF:-1 group-title="斗鱼专场",真实案例
 http://epg.112114.xyz/douyu/922564
 #EXTINF:-1 group-title="斗鱼专场",真实案例
@@ -3092,7 +3046,6 @@ http://zzy789.xyz/douyu1.php?id=3439096
 http://epg.112114.xyz/douyu/6027991
 #EXTINF:-1 group-title="斗鱼专场",神探狄仁杰
 http://zzy789.xyz/douyu1.php?id=6027991
-
 
 #EXTINF:-1 group-title="港台节目",新华中文
 http://source07.v.news.cn/live/CNC_CN/playlist.m3u8
