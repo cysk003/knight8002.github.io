@@ -2814,67 +2814,6 @@ http://epg.112114.xyz/douyu/6027991
 http://zzy789.xyz/douyu1.php?id=6027991
 
 
-#EXTINF:-1 group-title="港澳台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/sport-sports_net.png",博斯运动1
-http://60.251.59.180:8503/http/59.120.8.187:8066/hls/210/10018/cstv18.m3u8
-#EXTINF:-1 group-title="港澳台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/sports_net_2.png",博斯运动2
-http://60.251.59.180:8504/http/59.120.8.187:8081/hls/61/803/ch04.m3u8
-#EXTINF:-1 group-title="港澳台" tvg-logo="N/A",ELEVEN SPORTS 1
-http://60.251.59.180:8505/http/59.120.8.187:8078/hls/25/80/esport.m3u8
-#EXTINF:-1 group-title="港澳台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/elevensports2.png",ELEVEN SPORTS 2
-http://60.251.59.180:8506/http/59.120.8.187:8078/hls/26/80/esport2.m3u8
-#EXTINF:-1 group-title="港澳台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/台视.png",台视
-http://60.251.59.180:8501/http/61.221.81.94:8088/hls/72/814/ch46.m3u8
-#EXTINF:-1 group-title="港澳台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/中视.png",中视
-http://60.251.59.180:8502/http/61.221.81.94:8088/hls/72/814/ch47.m3u8
-#EXTINF:-1 group-title="港澳台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CTS.png",华视
-http://60.251.59.180:8503/http/61.221.81.94:8088/hls/72/814/ch48.m3u8
-#EXTINF:-1 group-title="港澳台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/民视.png",民视
-http://60.251.59.180:8504/http/61.221.81.94:8088/hls/73/815/ch49.m3u8
-#EXTINF:-1 group-title="港澳台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/PublicTV.png",公视
-http://60.251.59.180:8505/http/61.221.81.94:8088/hls/73/815/ch50.m3u8
-#EXTINF:-1 group-title="港澳台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/年代ERANewsHD.png",年代新闻
-http://60.251.59.180:8502/http/60.251.39.91:8081/hls/67/809/ch27.m3u8
-#EXTINF:-1 group-title="港澳台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandSportsHD.png",纬来体育
-http://60.251.59.179:8525/http/192.168.77.24:8081/hls/67/809/ch28.m3u8?token=7375646fad86b6e6d470c5b6a18809d192037b8c
-#EXTINF:-1 group-title="港澳台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HMC.png",好莱坞电影
-http://60.251.59.178:8554/http/220.134.137.129:8881/hls/72/814/ch46.m3u8?token=7375646fa8105cdd9d5038112b279a499d1b6a1d
-#EXTINF:-1 group-title="港澳台" tvg-logo="N/A",中天新闻
-http://60.251.59.179:8529/http/192.168.77.24:8081/hls/64/806/ch16.m3u8
-#EXTINF:-1 group-title="港澳台" tvg-logo="N/A",华视新闻
-http://60.251.59.180:8501/http/60.251.39.91:8081/hls/61/803/ch03.m3u8
-#EXTINF:-1 group-title="港澳台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCNews.png",东森新闻
-http://60.251.59.180:8503/http/60.251.39.91:8081/hls/63/805/ch10.m3u8
-#EXTINF:-1 group-title="港澳台" tvg-logo="N/A",中天新闻
-http://60.251.59.180:8504/http/60.251.39.91:8081/hls/78/80/ch63max.m3u8
-#EXTINF:-1 group-title="港澳台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FTVNews.png",民视新闻
-http://60.251.59.180:8505/http/60.251.39.91:8081/hls/73/815/ch51.m3u8
-#EXTINF:-1 group-title="港澳台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETNews.png",三立新闻
-http://60.251.59.180:8506/http/60.251.39.91:8081/hls/65/807/ch18.m3u8
-#EXTINF:-1 group-title="港澳台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCFinancialNews.png",东森财经
-http://60.251.59.180:8509/http/116.50.42.19:8081/hls/63/805/ch11.m3u8
-#EXTINF:-1 group-title="港澳台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GlobalNews.png",寰宇新闻
-http://60.251.59.180:8510/http/116.50.42.19:8081/hls/76/818/ch62.m3u8
-#EXTINF:-1 group-title="港澳台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/NextTVNews.png",壹新闻台
-http://60.251.59.180:8511/http/116.50.42.19:8081/hls/66/808/ch24.m3u8
-#EXTINF:-1 group-title="港澳台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/yuanzhumin.png",原住民电视
-http://streamipcf.akamaized.net/live/_definst_/live_720/key_b1500.m3u8
-#EXTINF:-1 group-title="港澳台" tvg-logo="N/A",中天新闻
-http://60.251.59.180:8547/xoxo.m3u8
-#EXTINF:-1 group-title="港澳台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/龙华偶像.png",龙华偶像
-http://59.125.101.187:18746/.m3u8
-#EXTINF:-1 group-title="港澳台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandMovies.png",纬来电影
-http://60.249.146.250:8555/http/60.251.39.91:8081/hls/69/811/ch35.m3u8
-#EXTINF:-1 group-title="港澳台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/台视.png",台视
-http://59.125.101.187:8501/playlist.m3u8
-#EXTINF:-1 group-title="港澳台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/龙华戏剧.png",龙华戏剧
-http://59.125.98.83:8534/http/192.168.1.9:8066/hls/210/10010/cstv10.m3u8?token=7375646f1298469fcd2cecf4cc31d29c6f203f0d
-#EXTINF:-1 group-title="港澳台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/龙华日韩.png",龙华日韩
-http://59.125.98.83:8535/http/192.168.1.9:8066/hls/210/10011/cstv11.m3u8?token=7375646f1298469fcd2cecf4cc31d29c6f203f0d
-#EXTINF:-1 group-title="港澳台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/龙华偶像.png",龙华偶像
-http://59.125.98.83:8536/http/192.168.1.9:8066/hls/210/10012/cstv12.m3u8?token=7375646f1298469fcd2cecf4cc31d29c6f203f0d
-#EXTINF:-1 group-title="港澳台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandMovies.png",纬来电影
-http://60.251.59.178:8555/http/220.134.137.129:8881/hls/71/813/ch45.m3u8?token=7375646fa8105cdd9d5038112b279a499d1b6a1d
-
 #EXTINF:-1 group-title="酷狗" tvg-logo="N/A",影视1
 http://117.148.179.163/PLTV/88888888/224/3221231556/index.m3u8
 #EXTINF:-1 group-title="酷狗" tvg-logo="N/A",影视2
