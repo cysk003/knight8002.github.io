@@ -648,8 +648,8 @@ https://epg.112114.xyz/huya/21059586
 https://epg.112114.xyz/huya/11602067
 #EXTINF:-1 group-title="515轮播源",篮qiu火[274]
 https://epg.112114.xyz/huya/21059558
-#EXTINF:-1 group-title="515轮播源",粤语综艺
-http://epg.112114.xyz/douyu/7919720
+#EXTINF:-1 group-title="515轮播源",林正英
+http://epg.112114.xyz/douyu/218859
 #EXTINF:-1 group-title="515轮播源",华语经典
 http://epg.112114.xyz/douyu/434971
 #EXTINF:-1 group-title="515轮播源",吃米滴虫
@@ -1038,8 +1038,8 @@ http://119.134.176.94:808/hls/68/index.m3u8
 http://119.134.176.94:808/hls/512/index.m3u8
 #EXTINF:-1 group-title="412影视",热播剧场
 http://119.134.176.94:808/hls/71/index.m3u8
-#EXTINF:-1 group-title="412影视",怀旧剧场
-http://119.134.176.94:808/hls/507/index.m3u8
+#EXTINF:-1 group-title="412影视",林正英
+http://epg.112114.xyz/douyu/218859
 #EXTINF:-1 group-title="412影视",林正英·2
 http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1351505899
 #EXTINF:-1 group-title="412影视",林正英·3
@@ -1108,8 +1108,8 @@ http://111.59.189.40:8445/tsfile/live/1022_1.m3u8
 http://39.134.19.252:6610/yinhe/2/ch00000090990000002055/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 group-title="电影轮播",CHC高清电影
 http://39.134.19.252:6610/yinhe/2/ch00000090990000002065/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 group-title="电影轮播",女神上海
-http://hpull.kktv8.com/livekktv/99350550/playlist.m3u8
+#EXTINF:-1 group-title="电影轮播",林正英
+http://epg.112114.xyz/douyu/218859
 #EXTINF:-1 group-title="电影轮播",吃米滴虫
 http://epg.112114.xyz/douyu/315457
 #EXTINF:-1 group-title="电影轮播",邵氏电影
